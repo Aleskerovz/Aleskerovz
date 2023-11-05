@@ -11,7 +11,7 @@
 Я начинающий бэкенд-разработчик, делающий первые шаги в IT. На данный момент я освоил язык программирования Python, а также Django и Django Rest Framework и реализовал несколько учебных проектов, которые можно посмотреть в моем репозитории.
 <br/>  
 
-## Languages and Tools  
+## Языки и инструменты
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
